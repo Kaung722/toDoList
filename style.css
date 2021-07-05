@@ -16,6 +16,12 @@ h1 {
   border-color: black;
 }
 
+.container1 {
+  background-color: rgb(202, 233, 202);
+  margin: 50px;
+  padding: 20px;
+}
+
 label {
   font-size: 36;
 }
